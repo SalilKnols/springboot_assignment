@@ -1,4 +1,4 @@
-package service;
+package com.knoldus.service;
 
 import org.springframework.stereotype.Service;
 import java.time.LocalTime;
